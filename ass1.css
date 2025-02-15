@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url("https://miro.medium.com/max/1400/0*GMReHtD9mDbpl54Q");
+    background-size: cover;
+    
+}
+
+.container {
+    background-color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(208, 19, 19);
+    text-align: center;
+    max-width: 1000px;
+    width: 3000px;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
+
+#bio {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 15px 40px;
+    background-color: #007bff;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
